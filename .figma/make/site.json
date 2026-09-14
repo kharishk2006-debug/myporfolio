@@ -1,0 +1,10 @@
+{
+  "description": "Create a stunning dark-themed portfolio website that showcases your work with a modern design, tailored to reflect your unique style and content.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
