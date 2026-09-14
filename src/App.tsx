@@ -1,11 +1,11 @@
 import { useState, useEffect, useRef } from "react";
-import vectorRunImg from "@/imports/8087a6cd-fa95-495b-9ea3-200480377f40.jpg";
-import profilePhoto from "@/imports/afa7451b-eec1-46c2-9d80-7fffdf995ff5.png";
-import mazePuzzleImg from "@/imports/image.png";
-import skyCityImg from "@/imports/4fdad004-3770-43cf-8f43-8f8de28bea98.png";
-import aiCareerCoachImg from "@/imports/32534306-887f-420f-8858-5f056d33368a.png";
-import healthcareImg from "@/imports/e3d86676-6746-435a-a048-f1d5808912dd.png";
-import fashionImg from "@/imports/31bec077-c5da-40fb-a242-7ddfb9967aad.png";
+import vectorRunImg from "imports/8087a6cd-fa95-495b-9ea3-200480377f40.jpg";
+import profilePhoto from "imports/afa7451b-eec1-46c2-9d80-7fffdf995ff5.png";
+import mazePuzzleImg from "imports/image.png";
+import skyCityImg from "imports/4fdad004-3770-43cf-8f43-8f8de28bea98.png";
+import aiCareerCoachImg from "imports/32534306-887f-420f-8858-5f056d33368a.png";
+import healthcareImg from "imports/e3d86676-6746-435a-a048-f1d5808912dd.png";
+import fashionImg from "imports/31bec077-c5da-40fb-a242-7ddfb9967aad.png";
 
 // ── Animation hooks ───────────────────────────────────────────────────────────
 
