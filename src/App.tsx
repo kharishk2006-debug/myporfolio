@@ -251,7 +251,7 @@ const PROJECTS = [
     statusColor: "#10b981",
     bg: "from-cyan-900/40 to-blue-900/30",
     imgUrl: aiCareerCoachImg,
-    github: "https://github.com/harish-k/ai-career-coach",
+    github: "https://github.com/kharishk2006-debug/AI-Career-Coach-Resume-Analyze",
   },
   {
     id: "05",
