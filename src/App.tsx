@@ -216,7 +216,7 @@ const PROJECTS = [
     statusColor: "#10b981",
     bg: "from-emerald-900/40 to-cyan-900/30",
     imgUrl: vectorRunImg,
-    github: "https://github.com/harish-k/2d-vector-run",
+    github: "https://github.com/kharishk2006-debug/vector-run-prototype",
   },
   {
     id: "02",
