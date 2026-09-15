@@ -240,6 +240,7 @@ const PROJECTS = [
     statusColor: "#f59e0b",
     bg: "from-violet-900/40 to-purple-900/30",
     imgUrl: skyCityImg,
+    github: "https://github.com/kharishk2006-debug/sky-city",
   },
   {
     id: "04",
