@@ -228,7 +228,7 @@ const PROJECTS = [
     statusColor: "#10b981",
     bg: "from-blue-900/40 to-indigo-900/30",
     imgUrl: mazePuzzleImg,
-    github: "https://github.com/harish-k/2d-maze-puzzle",
+    github: "https://github.com/kharishk2006-debug/2D-Maze-Puzzle",
   },
   {
     id: "03",
